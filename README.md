@@ -16,8 +16,8 @@ Les jours fériés (US) sont générés avec la librairie [`holidays`](https://p
 ## Installation
 
 ```bash
-git clone https://github.com/<votre-compte>/<votre-repo>.git
-cd <votre-repo>
+git clone https://github.com/Massyl-999/strategies-prompting-prevision-ventes.git
+cd strategies-prompting-prevision-ventes
 python -m venv .venv && source .venv/bin/activate   # Windows : .venv\Scripts\activate
 pip install -r requirements.txt
 ```
